@@ -1,0 +1,18 @@
+{
+  "name": "Scheda Allenamento",
+  "short_name": "Palestra",
+  "description": "Scheda allenamento personalizzata con fisioterapia",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
